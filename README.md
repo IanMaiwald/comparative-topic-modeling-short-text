@@ -1,4 +1,4 @@
-# Modelagem Comparativa de Tópicos em Textos Curtos
+# Comparando Modelagem de Tópicos em Textos Curtos
 
 Este repositório contém uma implementação comparativa de diversos algoritmos de modelagem de tópicos aplicados a textos curtos, especificamente tweets em português sobre a pandemia de COVID-19.
 
